@@ -13,7 +13,7 @@ export default function Productcard() {
         {/* Product Card 1 */}
         <div className="border bg-gray-200 rounded-2xl shadow-lg transform hover:scale-105 transition duration-300 ease-in-out">
           <div className="flex justify-center p-6">
-            <Image src="/pic3.png" alt="iPhone 15 Pro Max" width={200} height={200} />
+            <Image src="/Pic3.png" alt="iPhone 15 Pro Max" width={200} height={200} />
           </div>
           <p className="text-center text-2xl font-semibold py-2">iPhone 15 Pro Max</p>
           <p className="text-center text-xl font-medium py-2 text-gray-700">$847.75/=</p>
@@ -27,7 +27,7 @@ export default function Productcard() {
         {/* Product Card 2 */}
         <div className="border bg-gray-200 rounded-2xl shadow-lg transform hover:scale-105 transition duration-300 ease-in-out">
           <div className="flex justify-center p-6">
-            <Image src="/pic2.png" alt="iPhone 15 Pro Max" width={200} height={200} />
+            <Image src="/Pic2.png" alt="iPhone 15 Pro Max" width={200} height={200} />
           </div>
           <p className="text-center text-2xl font-semibold py-2">iPhone 15 Pro Max</p>
           <p className="text-center text-xl font-medium py-2 text-gray-700">$864.94/=</p>
@@ -41,7 +41,7 @@ export default function Productcard() {
         {/* Product Card 3 */}
         <div className="border bg-gray-200 rounded-2xl shadow-lg transform hover:scale-105 transition duration-300 ease-in-out">
           <div className="flex justify-center p-6">
-            <Image src="/pic1.png" alt="iPhone 16" width={200} height={200} />
+            <Image src="/Pic1.png" alt="iPhone 16" width={200} height={200} />
           </div>
           <p className="text-center text-2xl font-semibold py-2">iPhone 16</p>
           <p className="text-center text-xl font-medium py-2 text-gray-700">$1,199.00/=</p>
